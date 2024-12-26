@@ -1,0 +1,8 @@
+{
+    "save_fig_flag": "True",
+    "save_fig_loc": "fig",
+    "japan_era5_cutout_2020": "/data/cutouts/japan-2020.nc",
+    "RUN_ID": "published-ver",
+    "pypsa_base_folder": "pypsa-model-v0.1",
+    "results_zenodo_url": "https://zenodo.org/records/14556714/files/published-ver.zip?download=1"
+}
