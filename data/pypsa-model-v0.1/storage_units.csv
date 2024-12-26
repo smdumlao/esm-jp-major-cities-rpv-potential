@@ -1,0 +1,2 @@
+name,bus,efficiency_store,efficiency_dispatch,max_hours,p_nom
+su_battery,bus_bat,0.95,0.95,2.2,182000

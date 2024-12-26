@@ -1,0 +1,3 @@
+name,bus,p_nom,p_min_pu,p_max_pu,marginal_cost,ramp_limit_up,ramp_limit_down,p_nom_extendable
+gen_grid,bus_residential,1000000,0,0.95,30,.8,.8,True
+gen_solar,bus_local_gen,100000,0,1,10,.5,.5,False

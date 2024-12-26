@@ -1,0 +1,4 @@
+name,v_nom
+bus_residential,110
+bus_local_gen,110
+bus_bat,110

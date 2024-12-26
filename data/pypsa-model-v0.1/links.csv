@@ -1,0 +1,3 @@
+"name","bus0","bus1",p_nom_extendable,ramp_limit_up,ramp_limit_down,efficiency,"p_min_pu",marginal_cost
+"lk_local_resi","bus_local_gen","bus_residential",True,1,1,1,"0",
+"lk_bat_local","bus_bat","bus_local_gen",True,1,1,1,"-1",0
